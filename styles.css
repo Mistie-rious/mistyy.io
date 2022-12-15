@@ -1,0 +1,14 @@
+.navbar-nav .nav-item{
+    text-align: center;
+}
+
+.container{
+    background-color: grey;
+    display: grid;
+    height: 1000px;
+    width: 100%;
+}
+
+@media(max-width:767px){
+    
+}
